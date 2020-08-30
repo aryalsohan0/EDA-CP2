@@ -9,7 +9,7 @@ For each year and for each type of PM source, the NEI records how many tons of P
 
 
 ## Data
-[Data for peer assigment] (https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
+[Data for peer assigment](https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2FNEI_data.zip)
 
 
 ## Questions
