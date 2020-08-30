@@ -32,3 +32,6 @@ You must address the following questions and tasks in your exploratory analysis.
 
 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor vehicle sources in Los Angeles County, California (\color{red}{\verb|fips == "06037"|}fips == "06037"). Which city has seen greater changes over time in motor vehicle emissions?
 
+## Answers
+
+Plot code for Q1 is in plot1.R file and plot is in plot1.png and similarly for other questions.
